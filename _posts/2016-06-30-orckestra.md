@@ -5,7 +5,7 @@ author: "William Buchwalter & Julien Stroheker"
 author-link: "#"
 #author-image: "{{ site.baseurl }}/images/authors/photo.jpg"
 date:   2016-06-30
-categories: test
+categories: devops
 color: "blue"
 #image: "{{ site.baseurl }}/images/imagename.png" #should be ~350px tall
 excerpt:  This article is aimed at sharing the learnings from the DevOps Hackfest with Orckestra.
