@@ -5,7 +5,7 @@ author: "Tsuyoshi Ushio"
 author-link: "#"
 #author-image: "{{ site.baseurl }}/images/authors/photo.jpg"
 date:   2016-05-24
-categories: DevOps
+categories: test
 color: "blue"
 #image: "{{ site.baseurl }}/images/imagename.png" #should be ~350px tall
 excerpt: Microsoft teamed up with Karadamedica to hack integrated Microsoft DevOps technologies on Azure.
